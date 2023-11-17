@@ -27,7 +27,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/insurance-product-builder.git
+git clone https://github.com/c-tronik/actuariallab.git
 cd insurance-product-builder
 
 Install dependencies:
